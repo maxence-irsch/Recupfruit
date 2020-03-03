@@ -8,7 +8,7 @@
 
 body{font-family: 'Heebo', sans-serif;}
 body{font-size: 20px}
-body{background: #ADE7C7}
+body{background-image : url (legume-fruit.jpg},}
 
 h1,h2,h3,p {font-family: 'Krona One', sans-serif;}
 h1,h2,h3 {color: black}
@@ -18,7 +18,7 @@ a{text-decoration:none;}
 a:hover {color:#2CB369 ;}
 a:hover {background: white;}
 
-#legumefruit {size: 200%}
+
 
 
 
