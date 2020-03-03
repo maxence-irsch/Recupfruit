@@ -1,0 +1,9 @@
+.container{ width: 700px}
+.container{margin: 0 auto}
+.container{background: rgba(150,150,150,0.8);}
+.container{text-align: center;}
+.container{padding: 30px}
+
+@media (max-width: 960px) {.container { width: 700px;}}
+@media (max-width: 720px) {.container { width: 500px;}}
+@media (max-width: 540px) {.container { width: 300px;}}
