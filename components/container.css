@@ -3,7 +3,7 @@
 .container{background: rgba(150,150,150,0.8);}
 .container{text-align: center;}
 .container{padding: 30px}
-.container{background-image: url(../../images/legume-fruit.jpg);}
+.container{background-image: url(images/legume-fruit.jpg);}
 
 @media (max-width: 960px) {.container { width: 700px;}}
 @media (max-width: 720px) {.container { width: 500px;}}
